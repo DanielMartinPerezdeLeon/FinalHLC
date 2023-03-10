@@ -1,2 +1,1 @@
-Basicamente solo funciona el .zip :).
-Buena suerte
+EL proyecto entero está en el .zip
